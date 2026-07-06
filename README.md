@@ -108,7 +108,8 @@ ScholarRAG
 
 <img width="2000" height="1414" alt="Akriti Yadav jpg" src="https://github.com/user-attachments/assets/3214d37b-8389-4ead-b359-cfc1b16bec6d" />
 
-```
+---
+
 # Acknowledgement
 
 I sincerely thank my mentors **[Ujjwal Pratap Singh](https://www.linkedin.com/in/ujjwal-pratap-singh/?skipRedirect=true)** and **[Skill Nebula Private Limited](https://www.linkedin.com/company/skillnebula/posts/?feedView=all)** for their continuous guidance and support throughout this internship. This opportunity significantly enhanced my technical and professional skills.
