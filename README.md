@@ -106,11 +106,8 @@ ScholarRAG
 
 # Certificate
 
-> Attach your internship completion certificate here.
+<img width="2000" height="1414" alt="Akriti Yadav jpg" src="https://github.com/user-attachments/assets/3214d37b-8389-4ead-b359-cfc1b16bec6d" />
 
-```
-certificates/
-└── ScholarRAG_Certificate.pdf
 ```
 # Acknowledgement
 
