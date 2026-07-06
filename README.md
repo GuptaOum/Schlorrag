@@ -12,13 +12,13 @@
 
 **Name:** Akriti Yadav
 
-**Email ID:** yourmail@example.com
+**Email ID:** akriy709@gmail.com
 
-**College Name:** Your College Name
+**College Name:** Khwaja Moinuddin Chishti Language University
 
-**Branch/Specialization:** B.Tech CSE
+**Branch/Specialization:** B.Tech CSE (AI/ML)
 
-**College ID:** XXXXXXXX
+**College ID:** B-0875
 
 ---
 
