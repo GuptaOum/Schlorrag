@@ -1,24 +1,26 @@
 <div align="center">
 
-# ScholarRAG Internship Portfolio
+# Schlorrag Internship Portfolio
 
-### Retrieval-Augmented Generation (RAG) Project
+### Retrieval-Augmented Generation (RAG) Research Assistant
 
----
+[Project Documentation](ScholarRAG_Project_Documentlatest.pdf)
 
 </div>
 
+---
+
 # Student Details
 
-**Name:** Akriti Yadav
+**Name:** Oum Gupta
 
-**Email ID:** yourmail@example.com
+**Email ID:** 
 
-**College Name:** Your College Name
+**College Name:** 
 
-**Branch/Specialization:** B.Tech CSE
+**Branch/Specialization:** 
 
-**College ID:** XXXXXXXX
+**College ID:** 
 
 ---
 
@@ -34,9 +36,9 @@
 
 # Trainer Details
 
-**Trainer Name:** Mr. Ujjwal Pratap Singh 
+**Trainer Name:** Mr. Ujjwal Pratap Singh
 
-**Trainer Email ID:** director@nexaskilllab.com 
+**Trainer Email ID:** director@nexaskilllab.com
 
 **Trainer Designation:** Director and Mentor
 
@@ -44,43 +46,47 @@
 
 # Overall Learning
 
-During this internship, I gained hands-on experience in building and deploying an end-to-end Retrieval-Augmented Generation (RAG) system. The project provided practical exposure to Docker, Kubernetes, AWS EC2, vector databases, GitHub collaboration, and cloud deployment. Working as the team leader also strengthened my communication, leadership, and project management skills.
+During this internship, I gained hands-on experience in building and deploying an end-to-end Retrieval-Augmented Generation system. The project provided practical exposure to backend API development, frontend integration, Docker, Kubernetes, AWS EC2, vector databases, GitHub collaboration, and cloud deployment.
 
 ---
 
-# Projects Completed
+# Project Completed
 
-## ScholarRAG
+## Schlorrag
 
 ### Project Description
 
-ScholarRAG is an AI-powered research assistant that retrieves information from research papers using Retrieval-Augmented Generation.
+Schlorrag is an AI-powered research assistant that helps users discover research papers, retrieve relevant implementation repositories, and generate grounded answers using Retrieval-Augmented Generation.
 
 ### My Contributions
 
-- Team Leader
-- Dataset preparation for RAG pipeline
-- Research paper collection
-- Docker image creation
-- Containerization
-- Kubernetes Deployment
-- YAML configuration
-- GitHub Collaboration
+- Built the backend APIs for authentication, chat, retrieval, and recommendations.
+- Integrated a React frontend with the FastAPI backend.
+- Prepared research paper data for ingestion into the RAG pipeline.
+- Implemented vector search using Qdrant and embedding models.
+- Containerized the application with Docker.
+- Added Kubernetes deployment manifests.
+- Prepared project documentation and deployment assets.
 
 ---
 
 # Repository Structure
 
-```
-ScholarRAG
-│
-├── backend
-├── frontend
-├── ingestion
-├── k8s
-├── docker-compose.yml
-├── README.md
-└── certificates
+```text
+Schlorrag
+|
+|-- ScholarRAG/
+|   |-- backend/
+|   |-- frontend/
+|   |-- ingestion/
+|   |-- k8s/
+|   |-- docker-compose.yml
+|   `-- README.md
+|-- ScholarRAG_Project_Documentlatest.pdf
+|-- ss1.jpg
+|-- ss2.jpg
+|-- ss3.jpg
+`-- README.md
 ```
 
 ---
@@ -89,29 +95,41 @@ ScholarRAG
 
 - Python
 - FastAPI
+- React
 - Docker
 - Kubernetes
 - AWS EC2
 - Qdrant
 - Sentence Transformers
+- LangChain
+- Hugging Face models
+- SQLite
 - Git
 - GitHub
 - Nginx
 - Ingress
-- Sqllite
-- Langchain
-- Hugging Face models
 
 ---
 
 # Certificate
 
-> Attach your internship completion certificate here.
+Certificate image will be added here.
 
-```
-certificates/
-└── ScholarRAG_Certificate.pdf
-```
+<!-- Add certificate image below when available. -->
+<!-- ![Certificate](certificates/ScholarRAG_Certificate.png) -->
+
+---
+
+# Project Screenshots
+
+![Schlorrag Screenshot 1](ss1.jpg)
+
+![Schlorrag Screenshot 2](ss2.jpg)
+
+![Schlorrag Screenshot 3](ss3.jpg)
+
+---
+
 # Acknowledgement
 
 I sincerely thank my mentors **[Ujjwal Pratap Singh](https://www.linkedin.com/in/ujjwal-pratap-singh/?skipRedirect=true)** and **[Skill Nebula Private Limited](https://www.linkedin.com/company/skillnebula/posts/?feedView=all)** for their continuous guidance and support throughout this internship. This opportunity significantly enhanced my technical and professional skills.
