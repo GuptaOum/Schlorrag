@@ -115,6 +115,7 @@ Schlorrag
 
 Certificate image will be added here.
 
+certificate.jpeg
 <!-- Add certificate image below when available. -->
 <!-- ![Certificate](certificates/ScholarRAG_Certificate.png) -->
 
