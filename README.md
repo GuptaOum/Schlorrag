@@ -111,13 +111,11 @@ Schlorrag
 
 ---
 
+
 # Certificate
 
-Certificate image will be added here.
+![Internship Completion Certificate](certificate.jpeg)
 
-certificate.jpeg
-<!-- Add certificate image below when available. -->
-<!-- ![Certificate](certificates/ScholarRAG_Certificate.png) -->
 
 ---
 
