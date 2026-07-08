@@ -14,13 +14,13 @@
 
 **Name:** Oum Gupta
 
-**Email ID:** 
+**Email ID:** 24f3003029@ds.study.iitm.ac.in
 
-**College Name:** 
+**College Name:** IIT MADRAS (BS DEGREE)
 
-**Branch/Specialization:** 
+**Branch/Specialization:** Data Science
 
-**College ID:** 
+**College ID:** 24f3003029
 
 ---
 
